@@ -1,4 +1,4 @@
-## Hi, there! <img src=asset/Octocat.png width=40> 
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there!
 I am typoverflow, and I am
 + <img src="asset/NJU.png" width=14> A junior student @ [School of AI, Nanjing University](https://ai.nju.edu.cn)
 + <img src="asset/book.png" width=14> A research rookie in Reinforcement Learning, supervised by [Prof. Zhang](https://ai.nju.edu.cn/zhangzongzhang/)
