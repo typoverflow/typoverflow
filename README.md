@@ -35,3 +35,6 @@ I am typoverflow, and I am
 
 
 **Some other fun facts about me ...**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
