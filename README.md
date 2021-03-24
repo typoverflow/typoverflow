@@ -33,8 +33,8 @@ I am typoverflow, and I am
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typoverflow&langs_count=3" border=0></td>
 </tr></table>
 
-
-**Some other fun facts about me ...**
+---
+**And some other fun facts about me ...**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
