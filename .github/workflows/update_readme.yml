@@ -1,0 +1,17 @@
+name: update_readme
+on:
+  push:
+  workflow_dispatch: 
+  schedule:
+    - cron: '0 * * * *'
+
+jobs: 
+  build: 
+    runs-on: ubuntu-latest
+    steps: 
+    - name: check repository
+      uses: actions/checkout@v2
+    - name: set up python
+      uses: actions/setup-python@v2
+      with: 
+        python-version: 3.8
