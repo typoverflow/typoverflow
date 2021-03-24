@@ -15,9 +15,3 @@ jobs:
       uses: actions/setup-python@v2
       with: 
         python-version: 3.8
-    - name: update gist
-      uses: matchai/waka-box@master
-      env: 
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        GIST_ID: 3647a751905e32f2079cc923a7b1e117
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API }}
