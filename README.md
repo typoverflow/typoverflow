@@ -18,6 +18,14 @@ I am typoverflow, and I am
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+**You can also find me on ...**
+
+[![Outlook](https://img.shields.io/badge/-typoverflow@outlook.com-0078d4?style=flat-square&logo=Microsoft%20Outlook&link=mailto:typoverflow@outlook.com)](mailto:typoverflow@outlook.com)
+![QQ](https://img.shields.io/badge/-1910342119-eb1923?style=flat-square&logo=Tencent%20QQ)
+![Wechat](https://img.shields.io/badge/-typoverflow-3b5526?style=flat-square&logo=WeChat)
+[![Zhihu](https://img.shields.io/badge/-typoverflow-gray?style=flat-square&logo=ZhiHu&link=https://www.zhihu.com/people/bi-bi-guang-ni-pa-bu-pa)](https://www.zhihu.com/people/bi-bi-guang-ni-pa-bu-pa)
+[![Douban](https://img.shields.io/badge/-typoverflow-007722?style=flat-square&logo=DouBan&link=https://www.douban.com/people/FFsays/)](https://www.douban.com/people/FFsays/)
+
 
 **My GitHub stat looks like ...**
 <table><tr>
@@ -25,11 +33,5 @@ I am typoverflow, and I am
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typoverflow&langs_count=3" border=0></td>
 </tr></table>
 
-**You can also find me on ...**
-[![Outlook](https://img.shields.io/badge/-typoverflow@outlook.com-0078d4?style=flat-square&logo=Microsoft%20Outlook&link=mailto:typoverflow@outlook.com)](mailto:typoverflow@outlook.com)
-![QQ](https://img.shields.io/badge/-1910342119-eb1923?style=flat-square&logo=Tencent%20QQ)
-![Wechat](https://img.shields.io/badge/-typoverflow-3b5526?style=flat-square&logo=WeChat)
-[![Zhihu](https://img.shields.io/badge/-typoverflow-gray?style=flat-square&logo=ZhiHu&link=https://www.zhihu.com/people/bi-bi-guang-ni-pa-bu-pa)](https://www.zhihu.com/people/bi-bi-guang-ni-pa-bu-pa)
-[![Douban](https://img.shields.io/badge/-typoverflow-007722?style=flat-square&logo=DouBan&link=https://www.douban.com/people/FFsays/)](https://www.douban.com/people/FFsays/)
 
 **Some other fun facts about me ...**
