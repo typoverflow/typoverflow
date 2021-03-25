@@ -33,6 +33,20 @@ I am typoverflow, and I am
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typoverflow&langs_count=3" border=0></td>
 </tr></table>
 
+**I'm reading, watching and writing ...**
+<table>
+<tr>
+<td valign="top" width="50%">
+<!-- douban starts -->
+<!-- douban ends -->
+</td>
+<td valign="top" width="50%">
+<!-- blog starts -->
+<!-- blog ends -->
+</td>
+</tr>
+</table>
+
 ---
 **And some other fun facts about me ...**
 
