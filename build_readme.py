@@ -46,6 +46,6 @@ if __name__ == "__main__":
     doubans_md = "\n".join(
         ["+ <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
     )
-    rewritten = replace_chunk(rewritten, "douban", "doubans_md")
+    rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     readme.open("w").write(rewritten)

@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs: 
-  update-readme: 
+  update-wakatime: 
     name: update readme with wakatime
     runs-on: ubuntu-latest
     steps: 
@@ -21,3 +21,38 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_DAYS_OF_WEEK: "False"
+  update-douban-blog:
+    name: update douban and blog
+    runs-on: ubuntu-latest
+    steps:
+      - name: check repo
+        uses: actions/checkout@v2
+      - name: set up python
+        uses: actions/setup-python@v2
+        with: 
+          python-version: 3.8
+      - name: configure pip
+        uses: actions/cache@v2
+        with: 
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: install python dependency
+        run: |
+          python -m pip install -r requirements.txt
+      - name: update readme
+        env: 
+          GH_TOKEN: ${{ secrets.GH_TOKEN2 }}
+        run: |-
+          python build_readme.py
+          cat README.md
+      - name: commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "typoverflow@outlook.com"
+          git config --global user.name "typoverflow-bot"
+          git pull
+          git add -A
+          git commit -m "Bot: update readme automatically" || exit 0
+          git push
