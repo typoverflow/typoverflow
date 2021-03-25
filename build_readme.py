@@ -41,7 +41,7 @@ def fetch_douban():
 def fetch_blog():
     entries = feedparser.parse("http://blog.typoverflow.me/feed.xml")["entries"]
     entries = entries[1:]
-    print(entries[0])
+    print(entries[0]["content"][1]["value"])
     res = []
     for item in entries:
         # try:
