@@ -36,7 +36,7 @@ I am typoverflow, and I am
 **I'm reading, watching and writing ...**
 <table >
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 **:footprints: <a href="https://www.douban.com/people/FFsays/" target="_blank">Funny Soul</a>**
 
@@ -44,7 +44,7 @@ I am typoverflow, and I am
 <!-- douban ends -->
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 **:closed_book: <a href="http://blog.typoverflow.me" target="_blank">Recent Blog Posts</a>**
 
