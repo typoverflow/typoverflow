@@ -52,6 +52,8 @@ def fetch_blog():
             )
         except:
             continue
+    print("-----------------------------")
+    print(entries)
 
     return res
 
@@ -72,6 +74,7 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "blog", blog_md)
 
     readme.open("w").write(rewritten)
+    
     print("-----------------------------")
-    print(blog_md)
+    print(blogs)
     print("-----------------------------")
