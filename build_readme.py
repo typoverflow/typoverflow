@@ -38,14 +38,37 @@ def fetch_douban():
         for item in entries
     ]
 
+def fetch_blog():
+    entries = feedparser.parse("http://blog.typoverflow.me/feed.xml")["entries"]
+    res = []
+    for item in entries:
+        try:
+            res.append(
+                {
+                    "title": item["title"], 
+                    "url": item["link"].split("#")[0], 
+                    "bio": re.findall(r"(?:<blockquote>\n<p>)?(.*)<br>", item["content"][1]["value"])[0]
+                }
+            )
+        except:
+            continue
+
+    return res
+
 if __name__ == "__main__":
     readme = root / "README.md"
     doubans = fetch_douban()[:5]
+    blogs = fetch_blog()[:5]
 
     rewritten = readme.open().read()
     doubans_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
     )
     rewritten = replace_chunk(rewritten, "douban", doubans_md)
+
+    blog_md = "\n".join(
+        ["* <a href='{url}' target='_blank'>{title}</a>\n<font color=\"gray\" size=2>{bio}</font>".format(**item) for item in blogs]
+    )
+    rewritten = replace_chunk(rewritten, "blog", blog_md)
 
     readme.open("w").write(rewritten)
