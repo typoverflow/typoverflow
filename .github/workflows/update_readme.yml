@@ -53,7 +53,6 @@ jobs:
           git diff
           git config --global user.email "typoverflow@outlook.com"
           git config --global user.name "typoverflow-bot"
-          git pull
           git add -A
           git commit -m "Bot: update readme automatically" || exit 0
           git push
