@@ -55,4 +55,4 @@ jobs:
           git config --global user.name "typoverflow-bot"
           git add -A
           git commit -m "Bot: update readme automatically" || exit 0
-          git push
+          git push -f
