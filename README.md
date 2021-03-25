@@ -37,12 +37,18 @@ I am typoverflow, and I am
 <table>
 <tr>
 <td valign="top" width="50%">
+
+**funny souls**
+
 <!-- douban starts -->
 <!-- douban ends -->
+
 </td>
 <td valign="top" width="50%">
+
 <!-- blog starts -->
 <!-- blog ends -->
+
 </td>
 </tr>
 </table>
