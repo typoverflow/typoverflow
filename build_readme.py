@@ -49,7 +49,7 @@ def fetch_blog():
             {
                 "title": item["title"], 
                 "url": item["link"], 
-                "bio": re.findall(r"(?:<blockquote>\n<p>)?(.*)<br>", item["content"][1]["value"])
+                "bio": re.findall(r"(?:<blockquote>\\n<p>)?(.*)<br>", item["content"][1]["value"])
             }
         )
         # except:
