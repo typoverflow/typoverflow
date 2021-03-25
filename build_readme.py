@@ -40,24 +40,19 @@ def fetch_douban():
 
 def fetch_blog():
     entries = feedparser.parse("http://blog.typoverflow.me/feed.xml")["entries"]
-    entries = entries[1:]
-    print(entries[0]["content"][1]["value"])
     res = []
     for item in entries:
-        # try:
-        res.append(
-            {
-                "title": item["title"], 
-                "url": item["link"], 
-                "bio": re.findall(r"<p>(.*)<br", item["content"][1]["value"])[0]
-            }
-        )
-        # except:
-        #     print("continue")
-        #     continue
-    print("-----------------------------")
-    print(res)
-
+        try:
+            res.append(
+                {
+                    "title": item["title"], 
+                    "url": item["link"], 
+                    "bio": re.findall(r"<p>(.*)<br", item["content"][1]["value"])[0]
+                }
+            )
+        except:
+            print("continue")
+            continue
     return res
 
 if __name__ == "__main__":
@@ -78,6 +73,3 @@ if __name__ == "__main__":
 
     readme.open("w").write(rewritten)
     
-    print("-----------------------------")
-    print(blogs)
-    print("-----------------------------")
