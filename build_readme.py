@@ -42,17 +42,17 @@ def fetch_blog():
     entries = feedparser.parse("http://blog.typoverflow.me/feed.xml")["entries"]
     res = []
     for item in entries:
-        try:
-            res.append(
-                {
-                    "title": item["title"], 
-                    "url": item["link"], 
-                    "bio": re.findall(r"(?:<blockquote>\n<p>)?(.*)<br>", item["content"][1]["value"])[0]
-                }
-            )
-        except:
-            print("continue")
-            continue
+        # try:
+        res.append(
+            {
+                "title": item["title"], 
+                "url": item["link"], 
+                "bio": re.findall(r"(?:<blockquote>\n<p>)?(.*)<br>", item["content"][1]["value"])[0]
+            }
+        )
+        # except:
+        #     print("continue")
+        #     continue
     print("-----------------------------")
     print(res)
 
