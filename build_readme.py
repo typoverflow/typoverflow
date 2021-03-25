@@ -72,7 +72,7 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     blog_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a>\n<font color=\"gray\" size=2>{bio}</font>".format(**item) for item in blogs]
+        ["* <a href='{url}' target='_blank'>{title}</a><br><font color=\"gray\" size=2>{bio}</font>".format(**item) for item in blogs]
     )
     rewritten = replace_chunk(rewritten, "blog", blog_md)
 
