@@ -72,3 +72,6 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "blog", blog_md)
 
     readme.open("w").write(rewritten)
+    print("-----------------------------")
+    print(blog_md)
+    print("-----------------------------")
