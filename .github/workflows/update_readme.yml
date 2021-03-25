@@ -23,6 +23,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
   update-douban-blog:
     name: update douban and blog
+    needs: update-wakatime
     runs-on: ubuntu-latest
     steps:
       - name: check repo
