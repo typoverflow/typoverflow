@@ -46,14 +46,15 @@ def fetch_blog():
             res.append(
                 {
                     "title": item["title"], 
-                    "url": item["link"].split("#")[0], 
+                    "url": item["link"], 
                     "bio": re.findall(r"(?:<blockquote>\n<p>)?(.*)<br>", item["content"][1]["value"])[0]
                 }
             )
         except:
+            print("continue")
             continue
     print("-----------------------------")
-    print(entries)
+    print(res)
 
     return res
 
