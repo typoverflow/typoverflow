@@ -61,4 +61,4 @@ jobs:
           git push -f
       - name: print prompt message
         run: |
-          echo "给个start吧呜呜呜"
+          echo "给个star吧呜呜呜"
