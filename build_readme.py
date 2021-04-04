@@ -6,6 +6,7 @@ import pathlib
 import re
 import os
 import datetime
+import time
 
 root=pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -29,6 +30,9 @@ def formatGMTime(timestamp):
 
 def fetch_douban():
     entries = feedparser.parse("https://www.douban.com/feed/people/FFsays/interests")["entries"]
+    while entries=="" or len(entries) == 0:
+        time.sleep(20)
+        entries = feedparser.parse("https://www.douban.com/feed/people/FFsays/interests")["entries"]
     return [
         {
             "title": item["title"], 
