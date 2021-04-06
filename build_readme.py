@@ -62,7 +62,7 @@ def fetch_blog():
 if __name__ == "__main__":
     readme = root / "README.md"
     doubans = fetch_douban()[:5]
-    blogs = fetch_blog()[:5]
+    blogs = fetch_blog()[:3]
 
     rewritten = readme.open().read()
     doubans_md = "\n".join(
