@@ -12,6 +12,7 @@ I am typoverflow, and I am
 ![Bash](https://img.shields.io/badge/-Bash-3b5526?style=flat-square&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/Python-073551?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-gray?style=flat-square&logo=PyTorch)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-c51a4a?style=flat-square&logo=Raspberry%20Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
