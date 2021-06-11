@@ -43,6 +43,11 @@ I am typoverflow, and I am
 **:footprints: <a href="https://www.douban.com/people/FFsays/" target="_blank">Funny Soul</a>**
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26148763/' target='_blank'>想读计算的本质</a> - 2021-04-19
+* <a href='https://music.douban.com/subject/6522905/' target='_blank'>听过Never Gonna Give You Up</a> - 2021-03-28
+* <a href='https://book.douban.com/subject/2253380/' target='_blank'>最近在读安娜·卡列尼娜</a> - 2021-03-28
+* <a href='http://movie.douban.com/subject/10561953/' target='_blank'>看过生活大爆炸 第六季</a> - 2021-03-28
+* <a href='http://movie.douban.com/subject/6557005/' target='_blank'>看过生活大爆炸  第五季</a> - 2021-03-28
 <!-- douban ends -->
 
 </td>
@@ -52,6 +57,9 @@ I am typoverflow, and I am
 
 
 <!-- blog starts -->
+* <a href='http://blog.typoverflow.me/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E4%BB%8E%E6%9C%80%E5%A4%A7%E7%86%B5%E5%8E%9F%E7%90%86%E7%9C%8BML%E5%92%8CRL/' target='_blank'>从最大熵原理看ML和RL</a><br><font color="gray" size=2>一个经常被问的问题：为什么Logistic回归要使用Sigmoid函数？</font>
+* <a href='http://blog.typoverflow.me/%E6%9D%82%E8%B0%88/%E5%A4%A9%E9%BB%91%E4%BB%A5%E5%90%8E/' target='_blank'>《天黑以后》</a><br><font color="gray" size=2>看了点书，凑合活着。</font>
+* <a href='http://blog.typoverflow.me/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E6%95%B0%E5%AD%A6/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84114514%E7%A7%8D%E6%95%A3%E5%BA%A6/' target='_blank'>机器学习中的114514种散度</a><br><font color="gray" size=2>最近看论文，发现很多文章中常常使用不同的散度来度量两个分布之间的距离，因此在这里对它们进行一个纳的归。</font>
 <!-- blog ends -->
 
 </td>
