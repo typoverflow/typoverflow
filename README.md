@@ -2,6 +2,7 @@
 I am typoverflow, and I am
 + <img src="asset/NJU.png" width=14> A junior student @ [School of AI, Nanjing University](https://ai.nju.edu.cn)
 + <img src="asset/book.png" width=14> A research rookie in Reinforcement Learning, supervised by [Prof. Zhang](https://ai.nju.edu.cn/zhangzongzhang/)
++ <img src="asset/LUG.png" width=14> A member of NJU Linux Users Group
 + <img src="asset/raspberrypi.svg" width=14> A developer interested in Linux systems and developing toolkits like raspberry pi
 + <img src="asset/TV.png" width=14> A crazy fan of American TV Series
 
