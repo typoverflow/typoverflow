@@ -70,4 +70,41 @@ I am typoverflow, and I am
 **And some other fun facts about me ...**
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    46 commits     █████░░░░░░░░░░░░░░░░░░░░   19.91% 
+🌆 Daytime    88 commits     █████████░░░░░░░░░░░░░░░░   38.1% 
+🌃 Evening    76 commits     ████████░░░░░░░░░░░░░░░░░   32.9% 
+🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   25 hrs 35 mins      █████████████████████░░░░   83.76% 
+Markdown                 3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
+YAML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+
+🐱‍💻 Projects: 
+Magirror                 14 hrs 7 mins       ███████████░░░░░░░░░░░░░░   46.25% 
+Pirror                   10 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.63% 
+blog                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+note                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+test                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+💻 Operating System: 
+Linux                    30 hrs 32 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 11/06/2021
 <!--END_SECTION:waka-->
