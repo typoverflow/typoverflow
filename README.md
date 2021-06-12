@@ -87,24 +87,24 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 hrs 35 mins      █████████████████████░░░░   83.76% 
-Markdown                 3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-YAML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+Python                   26 hrs 53 mins      █████████████████████░░░░   86.19% 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
+YAML                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
 Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🐱‍💻 Projects: 
-Magirror                 14 hrs 7 mins       ███████████░░░░░░░░░░░░░░   46.25% 
-Pirror                   10 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.63% 
-blog                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-note                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
-test                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Magirror                 14 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.27% 
+Pirror                   12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   39.03% 
+blog                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+test                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
+note                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01%
 
 💻 Operating System: 
-Linux                    30 hrs 32 mins      █████████████████████████   100.0%
+Linux                    31 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
