@@ -43,11 +43,11 @@ I am typoverflow, and I am
 **:footprints: <a href="https://www.douban.com/people/FFsays/" target="_blank">Funny Soul</a>**
 
 <!-- douban starts -->
+* <a href='https://www.douban.com/location/drama/35457667/' target='_blank'>看过罗慕路斯积木</a> - 2021-06-12
+* <a href='https://www.douban.com/location/drama/35491135/' target='_blank'>看过苏格拉底的第二次审判</a> - 2021-06-12
 * <a href='https://book.douban.com/subject/26148763/' target='_blank'>想读计算的本质</a> - 2021-04-19
 * <a href='https://music.douban.com/subject/6522905/' target='_blank'>听过Never Gonna Give You Up</a> - 2021-03-28
 * <a href='https://book.douban.com/subject/2253380/' target='_blank'>最近在读安娜·卡列尼娜</a> - 2021-03-28
-* <a href='http://movie.douban.com/subject/10561953/' target='_blank'>看过生活大爆炸 第六季</a> - 2021-03-28
-* <a href='http://movie.douban.com/subject/6557005/' target='_blank'>看过生活大爆炸  第五季</a> - 2021-03-28
 <!-- douban ends -->
 
 </td>
