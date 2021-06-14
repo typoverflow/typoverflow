@@ -87,24 +87,24 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   27 hrs 39 mins      █████████████████████░░░░   84.83% 
-Markdown                 3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-YAML                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+Python                   23 hrs 28 mins      ███████████████████░░░░░░   77.44% 
+Markdown                 5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🐱‍💻 Projects: 
-Magirror                 14 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   43.34% 
-Pirror                   14 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   43.33% 
-blog                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-test                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
-msgraph-training-pythondj25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+Pirror                   14 hrs 13 mins      ███████████░░░░░░░░░░░░░░   46.94% 
+Magirror                 9 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   31.17% 
+note                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
+blog                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
+test                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
 
 💻 Operating System: 
-Linux                    32 hrs 36 mins      █████████████████████████   100.0%
+Linux                    30 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
