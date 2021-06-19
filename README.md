@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    46 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
-🌆 Daytime    91 commits     █████████░░░░░░░░░░░░░░░░   38.72% 
-🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   34.47% 
-🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.23%
+🌞 Morning    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
+🌆 Daytime    91 commits     █████████░░░░░░░░░░░░░░░░   38.56% 
+🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   34.32% 
+🌙 Night      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
 
 ```
 
@@ -87,24 +87,24 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 21 mins      ████████████████████░░░░░   79.79% 
-Python                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05% 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+Markdown                 16 hrs 17 mins      █████████████████████░░░░   85.45% 
+Python                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🐱‍💻 Projects: 
-note                     7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.83% 
-Unknown Project          6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.75% 
-Pirror                   4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03% 
-test                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-blog                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
+note                     7 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.62% 
+Unknown Project          6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   34.26% 
+Pirror                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+test                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+blog                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
 
 💻 Operating System: 
-Linux                    20 hrs 30 mins      █████████████████████████   100.0%
+Linux                    19 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/06/2021
+ Last Updated on 19/06/2021
 <!--END_SECTION:waka-->
