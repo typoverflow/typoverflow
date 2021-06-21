@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   19.5% 
-🌆 Daytime    95 commits     █████████░░░░░░░░░░░░░░░░   39.42% 
-🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.61% 
-🌙 Night      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47%
+🌞 Morning    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+🌆 Daytime    95 commits     █████████░░░░░░░░░░░░░░░░   39.26% 
+🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.47% 
+🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.85%
 
 ```
 
@@ -87,21 +87,21 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 36 mins      ██████████████████████░░░   89.52% 
-Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+Markdown                 13 hrs 41 mins      ████████████████████████░   95.79% 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.81% 
-note                     6 hrs               ████████░░░░░░░░░░░░░░░░░   34.47% 
-test                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Pirror                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-blog                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71%
+Unknown Project          8 hrs 30 mins       ███████████████░░░░░░░░░░   59.57% 
+note                     4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   34.83% 
+blog                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
+homework                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+leetcode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 💻 Operating System: 
-Linux                    17 hrs 26 mins      █████████████████████████   100.0%
+Linux                    14 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
