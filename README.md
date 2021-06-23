@@ -87,24 +87,24 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 41 mins      ████████████████████████░   95.79% 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+Markdown                 9 hrs 45 mins       ███████████████████████░░   94.4% 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76% 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 30 mins       ███████████████░░░░░░░░░░   59.57% 
-note                     4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   34.83% 
-blog                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-homework                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
-leetcode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+note                     4 hrs 51 mins       ███████████░░░░░░░░░░░░░░   46.98% 
+Unknown Project          4 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.51% 
+blog                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58% 
+homework                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+leetcode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 💻 Operating System: 
-Linux                    14 hrs 17 mins      █████████████████████████   100.0%
+Linux                    10 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/06/2021
+ Last Updated on 23/06/2021
 <!--END_SECTION:waka-->
