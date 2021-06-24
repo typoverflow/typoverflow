@@ -87,21 +87,19 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 57 mins       ███████████████████████░░   94.36% 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+Markdown                 3 hrs 17 mins       ████████████████████████░   98.84% 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 47 mins       ████████████░░░░░░░░░░░░░   51.31% 
-note                     2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.9% 
-blog                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
-homework                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Pirror                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+Unknown Project          2 hrs 16 mins       █████████████████░░░░░░░░   68.34% 
+note                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   26.63% 
+homework                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+Pirror                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.0%
+Linux                    3 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
