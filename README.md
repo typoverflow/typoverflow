@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   19.58% 
-🌆 Daytime    93 commits     █████████░░░░░░░░░░░░░░░░   38.75% 
-🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.75% 
-🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92%
+🌞 Morning    47 commits     █████░░░░░░░░░░░░░░░░░░░░   19.5% 
+🌆 Daytime    93 commits     █████████░░░░░░░░░░░░░░░░   38.59% 
+🌃 Evening    81 commits     ████████░░░░░░░░░░░░░░░░░   33.61% 
+🌙 Night      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 
 ```
 
@@ -87,22 +87,22 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 54 mins       ████████████████████████░   98.69% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+Markdown                 1 hr 17 mins        █████████████████████░░░░   84.51% 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 52 mins        ████████████████░░░░░░░░░   63.51% 
-note                     54 mins             ███████░░░░░░░░░░░░░░░░░░   30.81% 
-homework                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
-Pirror                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+Unknown Project          1 hr 8 mins         ██████████████████░░░░░░░   73.93% 
+Pirror                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+homework                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+note                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 💻 Operating System: 
-Linux                    2 hrs 57 mins       █████████████████████████   100.0%
+Linux                    1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/06/2021
+ Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
