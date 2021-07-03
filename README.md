@@ -87,23 +87,23 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 48 mins       ████████████████████████░   95.53% 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
+Markdown                 6 hrs 54 mins       ████████████████████████░   95.6% 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 40 mins       ████████████████░░░░░░░░░   65.49% 
-note                     2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.9% 
-Pirror                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
-boyi                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
-blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Unknown Project          4 hrs 46 mins       ████████████████░░░░░░░░░   66.0% 
+note                     2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.46% 
+Pirror                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
+boyi                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
+blog                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-Linux                    7 hrs 7 mins        █████████████████████████   100.0%
+Linux                    7 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
