@@ -87,20 +87,20 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 59 mins       ████████████████████████░   98.14% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+Markdown                 7 hrs 14 mins       ████████████████████████░   98.13% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 52 mins       ████████████████░░░░░░░░░   63.55% 
-note                     2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   34.52% 
-boyi                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
-homework                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Unknown Project          3 hrs 42 mins       ████████████░░░░░░░░░░░░░   50.13% 
+note                     3 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.27% 
+boyi                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+homework                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 💻 Operating System: 
-Linux                    6 hrs 6 mins        █████████████████████████   100.0%
+Linux                    7 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/07/2021
+ Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
