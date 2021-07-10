@@ -87,18 +87,18 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 55 mins       ███████████████████████░░   94.41% 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+Markdown                 5 hrs 48 mins       ███████████████████████░░   94.31% 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.69%
 
 🐱‍💻 Projects: 
-note                     6 hrs 9 mins        ████████████████████████░   98.27% 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+note                     6 hrs 9 mins        █████████████████████████   99.98% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Linux                    6 hrs 16 mins       █████████████████████████   100.0%
+Linux                    6 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
