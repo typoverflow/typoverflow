@@ -87,23 +87,23 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 18 mins       ████████████████████░░░░░   81.87% 
-Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Markdown                 8 hrs 24 mins       █████████████████████░░░░   85.74% 
+Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🐱‍💻 Projects: 
-note                     7 hrs 28 mins       ████████████████████████░   96.92% 
-codas                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-Pirror                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+note                     9 hrs 34 mins       ████████████████████████░   97.58% 
+codas                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Pirror                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 💻 Operating System: 
-Linux                    7 hrs 42 mins       █████████████████████████   100.0%
+Linux                    9 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
