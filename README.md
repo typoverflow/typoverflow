@@ -87,23 +87,23 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 38 mins       ███████████████████░░░░░░   75.56% 
-Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
+Markdown                 3 hrs 25 mins       ██████████████████░░░░░░░   74.41% 
+Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🐱‍💻 Projects: 
-note                     4 hrs 34 mins       ███████████████████████░░   95.09% 
-codas                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-Pirror                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+note                     4 hrs 21 mins       ███████████████████████░░   94.86% 
+codas                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+Pirror                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 💻 Operating System: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.0%
+Linux                    4 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/07/2021
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
