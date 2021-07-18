@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    48 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-🌆 Daytime    99 commits     █████████░░░░░░░░░░░░░░░░   38.37% 
-🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   35.27% 
-🌙 Night      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.75%
+🌞 Morning    48 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+🌆 Daytime    99 commits     █████████░░░░░░░░░░░░░░░░   38.22% 
+🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   35.14% 
+🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
 
 ```
 
@@ -87,23 +87,22 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 25 mins       ██████████████████░░░░░░░   74.41% 
-Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Markdown                 3 hrs 21 mins       ███████████████████████░░   94.22% 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🐱‍💻 Projects: 
-note                     4 hrs 21 mins       ███████████████████████░░   94.86% 
-codas                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-Pirror                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+note                     3 hrs 20 mins       ███████████████████████░░   94.01% 
+codas                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+Pirror                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 💻 Operating System: 
-Linux                    4 hrs 35 mins       █████████████████████████   100.0%
+Linux                    3 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/07/2021
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
