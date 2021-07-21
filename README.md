@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.85% 
-🌆 Daytime    99 commits     █████████░░░░░░░░░░░░░░░░   38.08% 
-🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   35.0% 
-🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
+🌞 Morning    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
+🌆 Daytime    99 commits     █████████░░░░░░░░░░░░░░░░   37.93% 
+🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   34.87% 
+🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
 
 ```
 
@@ -87,16 +87,16 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 45 mins             █████████████████████████   100.0%
+Markdown                 7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-note                     45 mins             █████████████████████████   100.0%
+note                     7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.0%
+Linux                    7 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
