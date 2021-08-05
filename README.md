@@ -87,16 +87,25 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 mins             █████████████████████████   100.0%
+Python                   2 hrs 43 mins       █████████████████░░░░░░░░   69.22% 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 🐱‍💻 Projects: 
-note                     24 mins             █████████████████████████   100.0%
+ProLoNets                2 hrs 58 mins       ██████████████████░░░░░░░   75.29% 
+note                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.31% 
+pysc2-BuildMarines       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
+SLG                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.0%
+Mac                      3 hrs 31 mins       ██████████████████████░░░   89.56% 
+Linux                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.44%
 
 ```
 
 
- Last Updated on 04/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
