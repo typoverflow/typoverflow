@@ -57,9 +57,7 @@ I am typoverflow, and I am
 
 
 <!-- blog starts -->
-* <a href='http://blog.typoverflow.me/uncategorized/Pirror%E6%8A%98%E8%85%BE%E8%AE%B0/' target='_blank'>Pirror折腾记</a><br><font color="gray" size=2>不要在考试周瞎折腾，会变得不幸福。<br />（还在更新中）</font>
-* <a href='http://blog.typoverflow.me/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E4%BB%8E%E6%9C%80%E5%A4%A7%E7%86%B5%E5%8E%9F%E7%90%86%E7%9C%8BML%E5%92%8CRL/' target='_blank'>从最大熵原理看ML和RL</a><br><font color="gray" size=2>一个经常被问的问题：为什么Logistic回归要使用Sigmoid函数？</font>
-* <a href='http://blog.typoverflow.me/%E6%9D%82%E8%B0%88/%E5%A4%A9%E9%BB%91%E4%BB%A5%E5%90%8E/' target='_blank'>《天黑以后》</a><br><font color="gray" size=2>看了点书，凑合活着。</font>
+
 <!-- blog ends -->
 
 </td>
