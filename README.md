@@ -71,10 +71,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
-🌆 Daytime    101 commits    █████████░░░░░░░░░░░░░░░░   37.55% 
-🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   33.83% 
-🌙 Night      27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.04%
+🌞 Morning    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+🌆 Daytime    101 commits    █████████░░░░░░░░░░░░░░░░   37.41% 
+🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   33.7% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.37%
 
 ```
 
@@ -85,21 +85,21 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 12 mins      █████████████████████░░░░   84.24% 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+Python                   16 hrs 52 mins      █████████████████████░░░░   85.94% 
+Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 🐱‍💻 Projects: 
-ProLoNets                5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   38.2% 
-SLG_ReinforcementLearning3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54% 
-BuildMarines             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-pysc2-agents             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
-Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
+ProLoNets                5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.19% 
+BuildMarines             5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.12% 
+SLG_ReinforcementLearning3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
+pysc2-agents             1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
+Unknown Project          1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 💻 Operating System: 
-Mac                      14 hrs 29 mins      █████████████████████████   100.0%
+Mac                      19 hrs 38 mins      █████████████████████████   100.0%
 
 ```
 
