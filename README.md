@@ -87,25 +87,24 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 7 mins       █████████████████████░░░░   84.09% 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+Python                   12 hrs 12 mins      █████████████████████░░░░   84.24% 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🐱‍💻 Projects: 
-ProLoNets                5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   38.36% 
-SLG_ReinforcementLearning3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11% 
-BuildMarines             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
-pysc2-agents             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-unstable_baselines       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
+ProLoNets                5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   38.2% 
+SLG_ReinforcementLearning3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54% 
+BuildMarines             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+pysc2-agents             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
+Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
 💻 Operating System: 
-Mac                      14 hrs 1 min        ████████████████████████░   97.15% 
-Linux                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
+Mac                      14 hrs 29 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/08/2021
+ Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
