@@ -46,8 +46,8 @@ I am typoverflow, and I am
 * <a href='http://movie.douban.com/subject/20452350/' target='_blank'>看过9号秘事 第一季</a> - 2021-07-03
 * <a href='https://book.douban.com/subject/27612832/' target='_blank'>读过数理逻辑十二讲(面向CS2013计算机专业规划教材)</a> - 2021-06-21
 * <a href='https://book.douban.com/subject/26148763/' target='_blank'>最近在读计算的本质</a> - 2021-06-21
+* <a href='https://www.douban.com/location/drama/35457667/' target='_blank'>看过罗慕路斯积木</a> - 2021-06-12
 * <a href='https://www.douban.com/location/drama/35491135/' target='_blank'>看过苏格拉底的第二次审判</a> - 2021-06-12
-* <a href='https://music.douban.com/subject/6522905/' target='_blank'>听过Never Gonna Give You Up</a> - 2021-03-28
 <!-- douban ends -->
 
 </td>
@@ -57,7 +57,9 @@ I am typoverflow, and I am
 
 
 <!-- blog starts -->
-
+* <a href='http://blog.typoverflow.me/uncategorized/Pirror%E6%8A%98%E8%85%BE%E8%AE%B0/' target='_blank'>Pirror折腾记</a><br><font color="gray" size=2>不要在考试周瞎折腾，会变得不幸福。<br />（还在更新中）</font>
+* <a href='http://blog.typoverflow.me/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E4%BB%8E%E6%9C%80%E5%A4%A7%E7%86%B5%E5%8E%9F%E7%90%86%E7%9C%8BML%E5%92%8CRL/' target='_blank'>从最大熵原理看ML和RL</a><br><font color="gray" size=2>一个经常被问的问题：为什么Logistic回归要使用Sigmoid函数？</font>
+* <a href='http://blog.typoverflow.me/%E6%9D%82%E8%B0%88/%E5%A4%A9%E9%BB%91%E4%BB%A5%E5%90%8E/' target='_blank'>《天黑以后》</a><br><font color="gray" size=2>看了点书，凑合活着。</font>
 <!-- blog ends -->
 
 </td>
