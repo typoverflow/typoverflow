@@ -46,8 +46,8 @@ I am typoverflow, and I am
 * <a href='http://movie.douban.com/subject/20452350/' target='_blank'>看过9号秘事 第一季</a> - 2021-07-03
 * <a href='https://book.douban.com/subject/27612832/' target='_blank'>读过数理逻辑十二讲(面向CS2013计算机专业规划教材)</a> - 2021-06-21
 * <a href='https://book.douban.com/subject/26148763/' target='_blank'>最近在读计算的本质</a> - 2021-06-21
-* <a href='https://www.douban.com/location/drama/35457667/' target='_blank'>看过罗慕路斯积木</a> - 2021-06-12
 * <a href='https://www.douban.com/location/drama/35491135/' target='_blank'>看过苏格拉底的第二次审判</a> - 2021-06-12
+* <a href='https://music.douban.com/subject/6522905/' target='_blank'>听过Never Gonna Give You Up</a> - 2021-03-28
 <!-- douban ends -->
 
 </td>
