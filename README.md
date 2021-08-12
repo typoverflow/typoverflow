@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
-🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   37.59% 
-🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   33.21% 
-🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58%
+🌞 Morning    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   37.45% 
+🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   33.09% 
+🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
 
 ```
 
@@ -87,21 +87,21 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 47 mins      ██████████████████████░░░   90.54% 
-Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
-Markdown                 49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77% 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+Python                   31 hrs 15 mins      ███████████████████████░░   94.07% 
+Markdown                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 🐱‍💻 Projects: 
-SLG_ReinforcementLearning11 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   39.48% 
-BuildMarines             8 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.85% 
-ProLoNets                2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-pysc2-agents             2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   6.87% 
-pysc2-BuildMarines       1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
+SLG_ReinforcementLearning17 hrs 32 mins      █████████████░░░░░░░░░░░░   52.76% 
+BuildMarines             8 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.8% 
+pysc2-BuildMarines       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
+Unknown Project          1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
+pysc2-agents             1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
 
 💻 Operating System: 
-Mac                      29 hrs 35 mins      █████████████████████████   100.0%
+Mac                      33 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
