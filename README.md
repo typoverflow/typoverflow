@@ -87,24 +87,24 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 49 mins      ██████████████████████░░░   89.94% 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
+Python                   26 hrs 48 mins      ██████████████████████░░░   89.93% 
+Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
 JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
 Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
 Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🐱‍💻 Projects: 
-SLG_ReinforcementLearning16 hrs 52 mins      ██████████████░░░░░░░░░░░   56.54% 
-BuildMarines             5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
-Unknown Project          2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
+SLG_ReinforcementLearning16 hrs 50 mins      ██████████████░░░░░░░░░░░   56.49% 
+BuildMarines             5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
+Unknown Project          2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
 pysc2-BuildMarines       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
 pysc2-agents             46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 💻 Operating System: 
-Mac                      29 hrs 50 mins      █████████████████████████   100.0%
+Mac                      29 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
