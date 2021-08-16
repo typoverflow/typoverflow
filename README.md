@@ -87,24 +87,25 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 48 mins      ██████████████████████░░░   89.93% 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+Python                   26 hrs 45 mins      █████████████████████░░░░   84.08% 
+Markdown                 3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 🐱‍💻 Projects: 
-SLG_ReinforcementLearning16 hrs 50 mins      ██████████████░░░░░░░░░░░   56.49% 
-BuildMarines             5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
-Unknown Project          2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-pysc2-BuildMarines       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-pysc2-agents             46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
+SLG_ReinforcementLearning16 hrs 45 mins      █████████████░░░░░░░░░░░░   52.66% 
+BuildMarines             5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
+Unknown Project          2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
+pysc2-BuildMarines       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+note                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
 💻 Operating System: 
-Mac                      29 hrs 48 mins      █████████████████████████   100.0%
+Mac                      31 hrs 23 mins      ████████████████████████░   98.65% 
+Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 ```
 
 
- Last Updated on 15/08/2021
+ Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
