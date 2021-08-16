@@ -87,22 +87,22 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 45 mins      █████████████████████░░░░   84.08% 
-Markdown                 3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+Python                   29 hrs 58 mins      █████████████████████░░░░   84.66% 
+Markdown                 4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🐱‍💻 Projects: 
-SLG_ReinforcementLearning16 hrs 45 mins      █████████████░░░░░░░░░░░░   52.66% 
-BuildMarines             5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
-Unknown Project          2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-pysc2-BuildMarines       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-note                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
+SLG_ReinforcementLearning23 hrs 2 mins       ████████████████░░░░░░░░░   65.04% 
+BuildMarines             2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
+Unknown Project          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+note                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+pysc2-BuildMarines       1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
 
 💻 Operating System: 
-Mac                      31 hrs 23 mins      ████████████████████████░   98.65% 
-Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
+Mac                      34 hrs 59 mins      ████████████████████████░   98.79% 
+Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 ```
 
