@@ -87,25 +87,25 @@ I am typoverflow, and I am
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 36 mins      ██████████████████░░░░░░░   74.06% 
-Markdown                 5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82% 
-Text                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+Python                   19 hrs 6 mins       ██████████████████░░░░░░░   74.7% 
+Markdown                 5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58% 
+Text                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 🐱‍💻 Projects: 
-SLG_ReinforcementLearning18 hrs 51 mins      █████████████████░░░░░░░░   71.18% 
-Unknown Project          3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-note                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
-pysc2-examples           1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
-ProLoNets                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+SLG_ReinforcementLearning18 hrs 19 mins      ██████████████████░░░░░░░   71.65% 
+Unknown Project          2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+note                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+pysc2-examples           1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+简报                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
 
 💻 Operating System: 
-Mac                      26 hrs 3 mins       ████████████████████████░   98.38% 
-Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+Mac                      25 hrs 9 mins       ████████████████████████░   98.32% 
+Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
 
 ```
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
