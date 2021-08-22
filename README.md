@@ -73,10 +73,10 @@ I am typoverflow, and I am
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   37.05% 
-🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   32.73% 
-🌙 Night      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51%
+🌞 Morning    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
+🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   36.92% 
+🌃 Evening    91 commits     ████████░░░░░░░░░░░░░░░░░   32.62% 
+🌙 Night      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.47%
 
 ```
 
