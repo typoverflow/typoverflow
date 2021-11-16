@@ -15,6 +15,7 @@ I am *typoverflow*, and I am
 <td>
 <img src=https://www.vectorlogo.zone/logos/linux/linux-icon.svg width=35>
 <img src=https://www.vectorlogo.zone/logos/apple/apple-tile.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg width=35>
 <td>
 <img src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg width=35>
 <img src=https://www.vectorlogo.zone/logos/python/python-icon.svg width=35>
