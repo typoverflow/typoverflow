@@ -32,6 +32,7 @@ I am typoverflow, and I am
 
 
 **My GitHub stat looks like ...**
+
 ![](https://visitor-badge.glitch.me/badge?page_id=typoverflow.typoverflow.readme)
 <table width="1200px"><tr>
 <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=typoverflow&show_icons=true&count_private=true&hide=prs&theme=graywhite" border=0></td>
