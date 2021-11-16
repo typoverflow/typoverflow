@@ -9,7 +9,28 @@ I am typoverflow, and I am
 
 **You can talk to me about :point_down:**
 
-![Linux](https://img.shields.io/badge/-Linux-d77310?style=flat-square&logo=linux)
+
+<table align="center">
+<tr>
+<td>
+<img src=https://www.vectorlogo.zone/logos/linux/linux-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/apple/apple-tile.svg width=35>
+<td>
+<img src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/python/python-icon.svg width=35>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg width=35>
+<td>
+<img src=https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/vim/vim-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/docker/docker-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg width=35>
+</tr>
+</table>
+</p>
+
+<!-- ![Linux](https://img.shields.io/badge/-Linux-d77310?style=flat-square&logo=linux)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple)
 ![Bash](https://img.shields.io/badge/-Bash-3b5526?style=flat-square&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/Python-073551?style=flat-square&logo=python)
@@ -20,7 +41,7 @@ I am typoverflow, and I am
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-c51a4a?style=flat-square&logo=Raspberry%20Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) -->
 
 <!-- **You can also find me on ...**
 
