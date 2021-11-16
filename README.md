@@ -1,5 +1,5 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there!
-I am typoverflow, and I am
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there! 
+I am *typoverflow*, and I am
 + <img src="asset/NJU.png" width=14> A junior student @ [School of AI, Nanjing University](https://ai.nju.edu.cn)
 + <img src="asset/book.png" width=14> A research rookie in Reinforcement Learning, supervised by [Prof. Zhang](https://ai.nju.edu.cn/zhangzongzhang/)
 + <img src="asset/LUG.png" width=14> A member of Nanjing University Linux Users Group
@@ -53,15 +53,16 @@ I am typoverflow, and I am
 
 
 **My GitHub stat looks like ...**
+<p align="center">
+<img src=https://visitor-badge.glitch.me/badge?page_id=typoverflow.typoverflow.readme width=100>
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=typoverflow&show_icons=true&count_private=true&hide=prs&theme=graywhite">
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=typoverflow.typoverflow.readme)
-<table width="1200px"><tr>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=typoverflow&show_icons=true&count_private=true&hide=prs&theme=graywhite" border=0></td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typoverflow&langs_count=3" border=0></td>
-</tr></table>
 
 **I'm reading, watching and writing ...**
-<table >
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
