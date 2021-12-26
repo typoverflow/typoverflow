@@ -54,7 +54,8 @@ def fetch_blog():
                     "bio": re.findall(r"<p>(.*?)<br>", item["content"][0]["value"])[0]
                 }
             )
-        except:
+        except Exception as e:
+            print(e)
             print("continue")
             continue
     return res
