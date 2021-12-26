@@ -51,7 +51,7 @@ def fetch_blog():
                 {
                     "title": item["title"], 
                     "url": item["link"], 
-                    "bio": re.findall(r"<p>(.*?)<br>", item["content"][0]["value"])[0]
+                    "bio": re.findall(r"<p>(.*?)<br", item["content"][0]["value"])[0]
                 }
             )
         except Exception as e:
