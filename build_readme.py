@@ -43,7 +43,7 @@ def fetch_douban():
     ]
 
 def fetch_blog():
-    entries = feedparser.parse("http://blog.typoverflow.me/feed.xml")["entries"]
+    entries = feedparser.parse("http://blog.typoverflow.me/feed")["entries"]
     res = []
     for item in entries:
         try:
@@ -51,7 +51,7 @@ def fetch_blog():
                 {
                     "title": item["title"], 
                     "url": item["link"], 
-                    "bio": re.findall(r"<p>(.*)<br", item["content"][1]["value"])[0]
+                    "bio": re.findall(r"<p>(.*?)<br>", item["content"][0]["value"])[0]
                 }
             )
         except:
