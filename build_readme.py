@@ -47,6 +47,8 @@ def fetch_blog():
     res = []
     for item in entries:
         try:
+            if item["title"] == "南大印象" or item["title"] == "观影记录": 
+                continue 
             res.append(
                 {
                     "title": item["title"], 
