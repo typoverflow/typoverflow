@@ -49,11 +49,12 @@ def fetch_blog():
         try:
             if item["title"] == "南大印象" or item["title"] == "观影记录": 
                 continue 
+            summary = re.findall(r"<blockquote><p>(.*?)</p></blockquote>", item["content"][0]["value"])
             res.append(
                 {
                     "title": item["title"], 
                     "url": item["link"], 
-                    "bio": re.findall(r"<p>(.*?)</p>", item["content"][0]["value"])[0]
+                    "bio": summary[0] if len(summary) > 0 else "", 
                 }
             )
         except Exception as e:
