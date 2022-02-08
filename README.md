@@ -7,7 +7,7 @@ I am ***typoverflow***, and I am
 + <img src="asset/TV.png" width=14> A crazy fan of American TV Series
 <!-- + <img src="asset/bytedance.svg" width=14> An intern in [ByteDance Ltd](https://www.bytedance.com/en/) -->
 
-**You can talk to me about :point_down:**
+**I'm interested in ... :point_down:**
 
 
 <table align="center">
@@ -85,8 +85,3 @@ I am ***typoverflow***, and I am
 </tr>
 </table>
 
----
-**And some other fun facts about me ...**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
