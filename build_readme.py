@@ -1,4 +1,3 @@
-from python_graphql_client import GraphqlClient
 import feedparser
 import httpx
 import json
@@ -9,7 +8,6 @@ import datetime
 import time
 
 root=pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 TOKEN = os.environ.get("GH_TOKEN", "")
 
@@ -49,7 +47,7 @@ def fetch_blog():
         try:
             if item["title"] == "南大印象" or item["title"] == "观影记录": 
                 continue 
-            summary = re.findall(r"<blockquote><p>(.*?)</p></blockquote>", item["content"][0]["value"])
+            summary = re.findall(r"^<blockquote><p>(.*?)</p></blockquote>", item["content"][0]["value"])
             res.append(
                 {
                     "title": item["title"], 
