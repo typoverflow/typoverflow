@@ -27,10 +27,10 @@ def formatGMTime(timestamp):
     return dateStr.date()
 
 def fetch_douban():
-    entries = feedparser.parse("https://www.douban.com/feed/people/FFsays/interests")["entries"]
+    entries = feedparser.parse("https://www.douban.com/feed/people/255018304/interests")["entries"]
     while entries=="" or len(entries) == 0:
         time.sleep(20)
-        entries = feedparser.parse("https://www.douban.com/feed/people/FFsays/interests")["entries"]
+        entries = feedparser.parse("https://www.douban.com/feed/people/255018304/interests")["entries"]
     return [
         {
             "title": item["title"], 
