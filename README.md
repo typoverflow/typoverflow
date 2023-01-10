@@ -4,9 +4,9 @@ I am ***typoverflow***, and I am
 + <img src="asset/book.png" width=14> A research rookie in Reinforcement Learning, supervised by [Prof. Zhang](https://ai.nju.edu.cn/zhangzongzhang/)
 + <img src="asset/LUG.png" width=14> A member of Nanjing University Linux Users Group
 + <img src="asset/raspberrypi.svg" width=14> A developer interested in Linux systems and developing toolkits like raspberry pi
-+ <img src="asset/TV.png" width=14> A crazy fan of American TV Series
++ <img src="asset/TV.png" width=14> A crazy fan of science fiction novels and TV series
 
-***Here is my CV: [http://about.typoverflow.me](http://about.typoverflow.me)***
+<!-- ***Here is my CV: [http://about.typoverflow.me](http://about.typoverflow.me)*** -->
 <!-- + <img src="asset/bytedance.svg" width=14> An intern in [ByteDance Ltd](https://www.bytedance.com/en/) -->
 
 **I'm interested in ... :point_down:**
