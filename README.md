@@ -72,11 +72,11 @@ I am ***typoverflow***, and I am
 **:footprints: <a href="https://www.douban.com/people/FFsays/" target="_blank">Funny Soul</a>**
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/26266893/' target='_blank'>看过流浪地球</a> - 2023-01-24
+* <a href='http://movie.douban.com/subject/35267208/' target='_blank'>看过流浪地球2</a> - 2023-01-24
 * <a href='http://movie.douban.com/subject/34885342/' target='_blank'>看过人生切割术 第一季</a> - 2022-12-26
 * <a href='http://movie.douban.com/subject/1293718/' target='_blank'>看过亚当斯一家</a> - 2022-12-20
 * <a href='http://movie.douban.com/subject/35604677/' target='_blank'>在看机动战士高达 水星的魔女</a> - 2022-11-23
-* <a href='http://movie.douban.com/subject/6981153/' target='_blank'>想看爱尔兰人</a> - 2022-10-28
-* <a href='http://movie.douban.com/subject/35511391/' target='_blank'>想看好兆头 第二季</a> - 2022-10-27
 <!-- douban ends -->
 
 </td>
